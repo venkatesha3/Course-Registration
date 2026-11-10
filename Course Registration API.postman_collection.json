@@ -16,7 +16,7 @@
         "method": "DELETE",
         "header": [],
         "url": {
-          "raw": "http://localhost:8080/api/courses/JAVA201/enrollments/S15",
+          "raw": "http://localhost:8080/api/courses/JAVA201/enrollments/S11",
           "protocol": "http",
           "host": [
             "localhost"
@@ -27,7 +27,7 @@
             "courses",
             "JAVA201",
             "enrollments",
-            "S15"
+            "S11"
           ]
         }
       },
@@ -83,7 +83,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n  \"studentId\": \"S15\",\r\n  \"name\": \"Venkatesh\",\r\n  \"completedCourseIds\": [\"JAVA101\"]\r\n}\r\n",
+          "raw": "{\r\n  \"studentId\": \"S11\",\r\n  \"name\": \"Venkatesh\",\r\n  \"completedCourseIds\": [\"JAVA101\"]\r\n}\r\n",
           "options": {
             "raw": {
               "language": "json"
